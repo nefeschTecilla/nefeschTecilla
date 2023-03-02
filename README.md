@@ -5,5 +5,5 @@ Sobre mim:
 
 - Trabalhando com T.I. (Infraestrutura) na Disys Brasil;
 - Realizando faculdade de Análise e Desenvolvimento de Sistemas;
-- Cursando especialização em linguagem C++; 
-- Pergunte-me sobre CS, CX, Hardware, Metodologia científica, Banco de dados SQL.
+- Cursando especialização em Linguagem C++; 
+- E, você pode me perguntar sobre Atendimento ao cliente, CS, CX, Hardware, Metodologia científica e Banco de dados SQL.
