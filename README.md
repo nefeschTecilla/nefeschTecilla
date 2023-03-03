@@ -1,4 +1,3 @@
-
 ### Olá, me chame de Néfi.  :hatching_chick:
 ## Bem vindo ao meu perfil GitHub!
 
@@ -19,6 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/>   <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="25" height="25"/>
 </p>
+
 ---
 
 <div style="display: inline_block"> <img align="right" alt="programming" width="150" style="max witdh:100%;" src="https://media.tenor.com/G6a837fJZr8AAAAd/smile-creepy-smile.gif"> </div>
