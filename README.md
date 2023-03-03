@@ -17,3 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-origin
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25" height="25"/>   <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/>   <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="25" height="25"/>
+
+---
+
+<div class="tenor-gif-embed" data-postid="16132480" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/smile-creepy-smile-weird-wiping-sweat-gif-16132480">Smile Creepy Smile GIF</a>from <a href="https://tenor.com/search/smile-gifs">Smile GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
