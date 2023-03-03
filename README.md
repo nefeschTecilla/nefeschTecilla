@@ -21,6 +21,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.s
 </p>
 ---
 
-<img src="https://media.tenor.com/G6a837fJZr8AAAAd/smile-creepy-smile.gif" width="150" style="max witdh:100%;"/>
-
 <div style="display: inline_block"> <img align="right" alt="programming" width="150" style="max witdh:100%;" src="https://media.tenor.com/G6a837fJZr8AAAAd/smile-creepy-smile.gif"> </div>
