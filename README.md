@@ -20,18 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="25" height="25"/>
 
 ---
-<div align="center">
-<img src="https://tenor.com/bfQXs.gif" width="250" height="250"/>
-</div>          
-  
-          
-          
-          
-          
-          
-          
-          
 
-
-
-
+<div style="display: inline_block">
+<img align="right" alt="programming" width="150" style="max witdh:100%;" src="https://tenor.com/bfQXs.gif">
+</div>
