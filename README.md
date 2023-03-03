@@ -1,3 +1,4 @@
+
 ### Olá, me chame de Néfi.  :hatching_chick:
 ## Bem vindo ao meu perfil GitHub!
 
@@ -11,6 +12,5 @@ Sobre mim:
 
 Interesses:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="20" height="20"/>
           
