@@ -1,3 +1,4 @@
+
 ### Olá, me chame de Néfi.  :hatching_chick:
 ## Bem vindo ao meu perfil GitHub!
 
@@ -8,8 +9,9 @@ Sobre mim:
 - Cursando especialização em Linguagem C++; 
 - Qualificada em Atendimento ao cliente, CS, CX, Hardware, Metodologia científica e Banco de dados SQL.
 
-
-
+</i>
+</i>
+</i>
 
 Interesses:
 
