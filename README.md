@@ -19,4 +19,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.s
 
 ---
 
-<img src="https://media.tenor.com/G6a837fJZr8AAAAd/smile-creepy-smile.gif" width="150" height="150"/>
+<img src="https://media.tenor.com/G6a837fJZr8AAAAd/smile-creepy-smile.gif" width="150" style="max witdh:100%;"/>
